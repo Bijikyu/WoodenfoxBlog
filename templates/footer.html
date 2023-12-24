@@ -1,16 +1,18 @@
     </div> <!-- End of container -->
 <script>
-    window.onload = function() {
-        var grid = document.querySelector('.grid-container');
+    document.addEventListener("DOMContentLoaded", function() {
+        var grid = document.querySelector('.grid');
         if (grid) {
             new Masonry(grid, {
                 itemSelector: '.grid-item',
-                columnWidth: 400,
-                gutter: 20
+                columnWidth: 500,
+                gutter: 20,
+                fitWidth: true
             });
         }
-    };
+    });
 </script>
+
 
 </body>
 </html>

@@ -102,34 +102,31 @@ def convert_markdown_to_html(markdown_text):
 
 
 def generate_html(posts, header_path, footer_path):
-  """Generate a single HTML file from the list of posts with Bootstrap."""
-  with open(header_path, 'r', encoding='utf-8') as file:
-    header = file.read()
-
-  with open(footer_path, 'r', encoding='utf-8') as file:
-    footer = file.read()
-
-  body_content = "<div class='grid-container'>"
-  for post in posts:
-    html_content = convert_markdown_to_html(post['content'])
-    title = post['metadata'].get('title', 'No Title')
-    date_str = post['date'].strftime(
-        '%B %d, %Y at %H:%M') if post['date'] else 'Unknown Date'
-
-    # Include image if present
-    image_html = f"<img src='{post['metadata'].get('image', '')}' class='card-img-top' alt='{title}'>" if post[
-        'metadata'].get('image') else ''
-
-    body_content += f'''
-          <div class='grid-item card my-3'>
-              {image_html}
-              <div class='card-body'>
-                  <h2 class='card-title'>{title}</h2>
-                  <p class='card-text'><small class='text-muted'>{date_str}</small></p>
-                  {html_content}
-              </div>
-          </div>
-      '''
-  body_content += "</div>"  # Close the grid container
-
-  return header + body_content + footer
+    """Generate a single HTML file from the list of posts with Bootstrap."""
+    with open(header_path, 'r', encoding='utf-8') as file:
+        header = file.read()
+  
+    with open(footer_path, 'r', encoding='utf-8') as file:
+        footer = file.read()
+  
+    body_content = "<div class='grid'>"
+    for post in posts:
+        html_content = convert_markdown_to_html(post['content'])
+        title = post['metadata'].get('title', 'No Title')
+        date_str = post['date'].strftime('%B %d, %Y at %H:%M') if post['date'] else 'Unknown Date'
+  
+        # Include image if present
+        image_html = f"<img src='{post['metadata'].get('image', '')}' class='card-img-top' alt='{title}'>" if post['metadata'].get('image') else ''
+  
+        body_content += f'''
+            <div class='grid-item card my-3'>
+                {image_html}
+                <div class='card-body'>
+                    <h2 class='card-title'>{title}</h2>
+                    <p class='card-text'><small class='text-muted'>{date_str}</small></p>
+                    {html_content}
+                </div>
+            </div>
+        '''
+    body_content += "</div>"
+    return header + body_content + footer

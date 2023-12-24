@@ -1,0 +1,16 @@
+    </div> <!-- End of container -->
+<script>
+    window.onload = function() {
+        var grid = document.querySelector('.grid-container');
+        if(grid) {
+            new Masonry(grid, {
+                itemSelector: '.grid-item',
+                percentPosition: true,
+                columnWidth: '.grid-item',
+                gutter: 20  // Add space between columns
+            });
+        }
+    };
+</script>
+</body>
+</html>

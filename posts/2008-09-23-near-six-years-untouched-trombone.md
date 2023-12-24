@@ -1,30 +1,13 @@
 ---
-
-layout: post
-title: 'Near Six Years Untouched: Trombone'
-date: 2008-09-23 02:42:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2008/09/near-six-years-untouched-trombone.html"
-  _edit_last: '1'
-  theme_quote: "Notes falling daffidly failing with moments of udder bliss,\r\nA mixed
-    concerto of rediscovery, failures and sucess"
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/near-six-years-untouched-trombone/"
+date: 2008-09-23 02:42:00+00:00
+status: public
+title: 'Near Six Years Untouched: Trombone'
 ---
+
+
+
 It just sits there,  
 in the corner.  
 Huntched... curled into a shadow.  

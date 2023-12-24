@@ -1,29 +1,13 @@
 ---
-
-layout: post
-title: Homage to Patriotism
-date: 2009-02-18 23:45:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2009/02/homage-to-patriotism.html"
-  _thumbnail_id: '98'
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/homage-to-patriotism/"
+date: 2009-02-18 23:45:00+00:00
+status: public
+title: Homage to Patriotism
 ---
+
+
+
 The American Flag hangs over my desk for the first time,  
 It's wrinkled and missing a few stars.
 

@@ -1,30 +1,14 @@
 ---
-
-layout: post
-title: "&quot;Sometimes I lie just to be myself.&quot;"
-date: 2008-08-03 23:03:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Life
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2008/08/sometimes-i-lie-just-to-be-myself.html"
-  _edit_last: '1'
-  theme_audio_mp3: http://www.woodenfox.com/wp-content/uploads/2008/08/HowamInotmyself.mp3
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/sometimes-i-lie-just-to-be-myself/"
+date: 2008-08-03 23:03:00+00:00
+status: public
+title: '&quot;Sometimes I lie just to be myself.&quot;'
 ---
+
+
+
 I found this, poem/narrative that I wrote six months ago and in retrospect I
 think it think it provides some perspective into the feelings I was having at
 that time. The title to this post is a line from another poem written a week

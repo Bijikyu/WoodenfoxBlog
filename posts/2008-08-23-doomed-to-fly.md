@@ -1,29 +1,13 @@
 ---
-
-layout: post
-title: Doomed to Fly
-date: 2008-08-23 06:14:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2008/08/cliffs-and-perception.html"
-  _thumbnail_id: '128'
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/doomed-to-fly/"
+date: 2008-08-23 06:14:00+00:00
+status: public
+title: Doomed to Fly
 ---
+
+
+
 We connoisseurs of fantasy  
 Who dress in different destinies and dreams  
 How we love to...  

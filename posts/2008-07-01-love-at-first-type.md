@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Rants
 date: 2008-07-01 17:16:00+00:00
 image: /images/f2_1_b.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '166'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/07/love-at-first-type.html
-parent_id: '0'
-password: ''
-permalink: /love-at-first-type/
-published: true
-status: publish
-tags: []
+status: public
 title: Love at First Type
-type: post
 ---
+
+
+
 
 There's no love at first sight for computer geeks. It use to be that a man
 looked for a woman with a particular set of skills, that was generally

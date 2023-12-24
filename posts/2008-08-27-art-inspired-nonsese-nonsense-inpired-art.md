@@ -1,29 +1,13 @@
 ---
-
-layout: post
-title: Art Inspired Nonsese, Nonsense Inpired Art
-date: 2008-08-27 00:03:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2008/08/random-nonsense.html"
-  _thumbnail_id: '123'
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/art-inspired-nonsese-nonsense-inpired-art/"
+date: 2008-08-27 00:03:00+00:00
+status: public
+title: Art Inspired Nonsese, Nonsense Inpired Art
 ---
+
+
+
   
 
 Dunking Donut f*ck  

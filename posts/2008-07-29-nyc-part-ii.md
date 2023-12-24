@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Life
 date: 2008-07-29 04:38:00+00:00
 image: /images/PikachuEmpireState1.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '153'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/07/nyc-part-ii.html
-parent_id: '0'
-password: ''
-permalink: /nyc-part-ii/
-published: true
-status: publish
-tags: []
+status: public
 title: NYC Part II
-type: post
 ---
+
+
+
 
 I escaped TV land to the streets with my new found geek companions. My Rolodex
 was full of numbers the potentialist inside me screamed to possess but I'd

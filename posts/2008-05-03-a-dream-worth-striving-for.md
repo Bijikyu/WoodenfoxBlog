@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Rants
 date: 2008-05-03 05:24:00+00:00
 image: /images/gandhi-statue.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '227'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/05/oh-music.html
-parent_id: '0'
-password: ''
-permalink: /a-dream-worth-striving-for/
-published: true
-status: publish
-tags: []
+status: public
 title: A Dream Worth Striving For
-type: post
 ---
+
+
+
 
 Oh music. I just watched a French film entitled "The Chorus." Obviously this
 isn't its native title, it's the bastardized American translation of the

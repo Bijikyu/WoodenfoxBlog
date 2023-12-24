@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Poem
 date: 2008-04-04 05:11:00+00:00
 image: /images/sperm-whale-in-the-azores-isl.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '207'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/04/fish-of-many-shades-of-gray.html
-parent_id: '0'
-password: ''
-permalink: /the-fish-of-many-shades-of-gray/
-published: true
-status: publish
-tags: []
+status: public
 title: The Fish of Many Shades of Gray
-type: post
 ---
+
+
+
 I am king,  
 Of a pond of perception  
 Just large enough to see my reflection.  

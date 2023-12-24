@@ -1,30 +1,12 @@
 ---
-
-layout: post
-title: Aspirations
-date: 2008-08-01 04:36:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories: []
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2008/07/steady-trickle-of-courage-leaks-from.html"
-  _edit_last: '1'
-  theme_quote: "I don’t want to be remembered in ten foot tall print.\r\nI wish to
-    be whispered about, passed secretly under desks,\r\nTo live in smirks, and winks,
-    and secret handshakes,\r\nNot in spirit, or blood, But in life, humanity itself."
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/aspirations/"
+date: 2008-08-01 04:36:00+00:00
+status: public
+title: Aspirations
 ---
+
+
+
 
 A steady trickle of courage leaks from an infinite dam,  
 Moving through the dry heaving cracks of this nation,  

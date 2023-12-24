@@ -1,30 +1,15 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Life
 - Rants
 date: 2008-04-26 02:24:00+00:00
 image: /images/darger-3-643x522.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '236'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/04/relms-of-unreal.html
-parent_id: '0'
-password: ''
-permalink: /the-relms-of-the-unreal/
-published: true
-status: publish
-tags: []
+status: public
 title: The Relms of the Unreal
-type: post
 ---
+
+
+
 
 I happened upon this amazing man. Henry Darger. Who wrote a 15,000 page novel
 about seven beautiful little girls. _The Story of the Vivian G_ _irls, in What

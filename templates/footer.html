@@ -2,15 +2,15 @@
 <script>
     window.onload = function() {
         var grid = document.querySelector('.grid-container');
-        if(grid) {
+        if (grid) {
             new Masonry(grid, {
                 itemSelector: '.grid-item',
-                percentPosition: true,
-                columnWidth: '.grid-item',
-                gutter: 20  // Add space between columns
+                columnWidth: 400,
+                gutter: 20
             });
         }
     };
 </script>
+
 </body>
 </html>

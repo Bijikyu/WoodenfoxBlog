@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Story
 date: 2008-04-20 03:08:00+00:00
 image: /images/031506monica314.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '238'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/04/this-is-better-answer.html
-parent_id: '0'
-password: ''
-permalink: /this-is-a-better-answer/
-published: true
-status: publish
-tags: []
+status: public
 title: This is a better answer.
-type: post
 ---
+
+
+
 
 "Faith."
 

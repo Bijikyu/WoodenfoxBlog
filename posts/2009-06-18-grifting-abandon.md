@@ -1,29 +1,13 @@
 ---
-
-layout: post
-title: Grifting Abandon
-date: 2009-06-18 08:06:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2009/06/grifting-abandon.html"
-  _thumbnail_id: '86'
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/grifting-abandon/"
+date: 2009-06-18 08:06:00+00:00
+status: public
+title: Grifting Abandon
 ---
+
+
+
 While my responsibility drives,  
 Shouting obscenities at passersbys,  
 I'm in the back seat, window down  

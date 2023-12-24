@@ -1,28 +1,13 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories: []
 date: 2008-07-07 04:03:00+00:00
 image: /images/Typing-Excerpt.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '164'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/07/that-faded-locust-faintly-in-background.html
-parent_id: '0'
-password: ''
-permalink: /typewriters-locusts-honey-bees/
-published: true
-status: publish
-tags: []
+status: public
 title: Typewriters, Locusts &amp; Honey Bee's
-type: post
 ---
+
+
+
 
 So I bought a typewriter for $13 at the Thrift store. There is something so
 elegant about typewriters, they feel so soulful next to computers.

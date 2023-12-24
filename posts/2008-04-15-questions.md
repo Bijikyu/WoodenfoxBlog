@@ -1,29 +1,12 @@
 ---
-
-layout: post
-title: Questions?
-date: 2008-04-15 07:57:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories: []
-tags: []
-meta:
-  blogger_permalink: "/2008/04/questions.html"
-  blogger_blog: woodenfox.blogspot.com
-  _thumbnail_id: '240'
-  _edit_last: '1'
-  theme_quote: " Maybe I'm that little bit of truth in the abstract."
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/questions/"
+date: 2008-04-15 07:57:00+00:00
+status: public
+title: Questions?
 ---
+
+
+
 Must a critic be themselves criticized in order to be respected?
 
 Poetry is like a drawing. You can spend hours making it perfect, like a

@@ -1,30 +1,15 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Life
 - Story
 date: 2008-04-30 04:15:00+00:00
 image: /images/stfu21.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '231'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/04/taistlessness.html
-parent_id: '0'
-password: ''
-permalink: /soup-in-the-snow/
-published: true
-status: publish
-tags: []
+status: public
 title: Soup in the Snow
-type: post
 ---
+
+
+
 
 [![]({{ site.baseurl }}/assets/2008/04/Baby_Polar_Bear--
 thumb.jpg)](http://www.woodenfox.com/wp-

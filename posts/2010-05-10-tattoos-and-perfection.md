@@ -1,29 +1,13 @@
 ---
-
-layout: post
-title: Tattoos and Perfection
-date: 2010-05-10 01:12:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Poem
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2010/05/tattoos-and-perfection.html"
-  _thumbnail_id: '68'
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/tattoos-and-perfection/"
+date: 2010-05-10 01:12:00+00:00
+status: public
+title: Tattoos and Perfection
 ---
+
+
+
 Locusts down to the bone on my right shoulder, bees building a lunar lander on
 my left
 

@@ -1,28 +1,12 @@
 ---
-
-layout: post
-title: This is Heaven &amp; The Gelatenous Cube
-date: 2010-02-20 04:42:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories: []
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2010/02/this-is-heaven-gelatenous-cube.html"
-  _edit_last: '1'
-  _thumbnail_id: '74'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/this-is-heaven-the-gelatenous-cube/"
+date: 2010-02-20 04:42:00+00:00
+status: public
+title: This is Heaven &amp; The Gelatenous Cube
 ---
+
+
+
 Somehow I've escaped the world between firm perceptions  
 (That gray mass of questions and misdirections.)  
 I've lived in the gelatinous cube and survived...  

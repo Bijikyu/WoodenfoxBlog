@@ -1,32 +1,13 @@
 ---
-
-layout: post
-title: Lost and found memories...
-date: 2008-05-30 07:03:00.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories:
 - Life
-tags: []
-meta:
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: "/2008/05/lost-and-found-memories.html"
-  theme_quote: We did drawings in class, of real objects... I would ask people to
-    switch seats with me so I could get the perspective that showed the most depth.
-    I was in fourth grade. I got scared and then I quit. I didn't draw realism again
-    for eight years.
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/lost-and-found-memories/"
+date: 2008-05-30 07:03:00+00:00
+status: public
+title: Lost and found memories...
 ---
+
+
+
 I wonder when I will stop dreaming. I think I've got it. I have it. Now.  
 I love the appearance of compounding sentences. They read like a mantra. Very
 Soothing. Sweet.  

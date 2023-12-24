@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Story
 date: 2008-06-04 03:04:00+00:00
 image: /images/CoupleWalkingAlongGreensPoolBeach.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '212'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/06/this-is-just-beginning-margie.html
-parent_id: '0'
-password: ''
-permalink: /a-helthy-dose-of-optimism/
-published: true
-status: publish
-tags: []
+status: public
 title: A Helthy Dose of Optimism
-type: post
 ---
+
+
+
 
 "This is just the beginning," Margie exasperated, "Why do you have to be so
 glum Gerald, talking about us like we've been together for years," her fists

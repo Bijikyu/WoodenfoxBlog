@@ -1,29 +1,14 @@
 ---
-author:
-  display_name: mike
-  email: woodenfox@gmail.com
-  first_name: ''
-  last_name: ''
-  login: mike
 categories:
 - Rants
 date: 2008-05-16 02:30:00+00:00
 image: /images/IAMBW-643x482.jpg
-layout: post
-meta:
-  _edit_last: '1'
-  _thumbnail_id: '218'
-  blogger_blog: woodenfox.blogspot.com
-  blogger_permalink: /2008/05/culture-and-creation.html
-parent_id: '0'
-password: ''
-permalink: /culture-and-creation/
-published: true
-status: publish
-tags: []
+status: public
 title: Culture and Creation
-type: post
 ---
+
+
+
 
 There are many different kinds of culture. For a moment in my time at
 Parkfield I made a connection in my mind, an epiphany if you please. "My

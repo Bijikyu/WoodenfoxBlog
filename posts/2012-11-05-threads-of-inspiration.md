@@ -1,25 +1,12 @@
 ---
-
-layout: post
-title: Threads of Inspiration
-date: 2012-11-05 00:33:01.000000000 +00:00
-type: post
-parent_id: '0'
-published: true
-password: ''
-status: publish
 categories: []
-tags: []
-meta:
-  _edit_last: '1'
-author:
-  login: mike
-  email: woodenfox@gmail.com
-  display_name: mike
-  first_name: ''
-  last_name: ''
-permalink: "/threads-of-inspiration/"
+date: 2012-11-05 00:33:01+00:00
+status: public
+title: Threads of Inspiration
 ---
+
+
+
 Carve out your places in life.
 
 Burrow in the cracks and crevices where inspiration grows,

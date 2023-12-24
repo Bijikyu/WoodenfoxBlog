@@ -1,42 +1,59 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
-}
-
-.card-img-top {
-    width: 100%;  /* Ensure the image is full width */
-    height: auto; /* Maintain aspect ratio */
-    border-radius: 0; /* Remove any border radius at the top of the image */
-}
-
-.card {
-    margin-bottom: 20px;
-}
-.card-title {
+    line-height: 1.6;
+    background-color: #f4f4f4;
     color: #333;
+    padding: 20px;
 }
-/* Adjusted CSS for Masonry */
+
+/* Container for Masonry */
 .grid-container {
-    /* No need for grid layout here, Masonry will handle the layout */
+    max-width: 1200px; /* Maximum width of the container */
+    margin: 0 auto;    /* Center align the container */
 }
 
+/* Masonry Grid Items */
 .grid-item {
-    margin-bottom: 20px; /* space between posts */
-    background: #fff;    /* optional: background color for posts */
-    border: 1px solid #ddd; /* optional: border for posts */
-    box-shadow: 0px 2px 5px rgba(0,0,0,0.1); 
-    width: 100%; /* Mobile-first: By default, take up full width */
-    padding: 15px; /* add padding to each grid item */
-
+    background: #fff;              /* Background color for grid items */
+    border: 1px solid #ddd;        /* Border for grid items */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Box shadow for a subtle depth effect */
+    margin-bottom: 20px;           /* Space between grid items */
+    padding: 15px;                 /* Padding inside grid items */
+    word-wrap: break-word;         /* Ensures text wraps inside the container */
 }
-/* Media query for larger screens */
-@media (min-width: 768px) {
+
+/* Image styling */
+.card-img-top {
+    width: 100%;  /* Full width */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 0; /* No border radius */
+}
+
+/* Card title styling */
+.card-title {
+    margin-bottom: 15px;
+    color: #333;
+    font-size: 1.5em;
+}
+
+/* Responsive Media Queries */
+@media (max-width: 768px) {
+    /* Adjustments for smaller screens */
     .grid-item {
-        width: calc(50% - 10px); /* On wider screens, take up half the width (minus a little for spacing) */
+        width: 100%; /* Full width on smaller screens */
     }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 769px) {
+    /* Adjustments for larger screens */
     .grid-item {
-        width: calc(33.333% - 10px); /* On even wider screens, take up a third of the width */
+        width: calc(50% - 10px); /* Aim for two columns on larger screens */
     }
 }

@@ -10,19 +10,21 @@
     border-bottom: 2px solid #CCCCCC;
     margin-bottom: 25px;
     padding: 15px;
-    text-align: center; /* Center the content */
+    text-align: center;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1), 0 0 0 3px #F9F9F9 inset;
+    font-family: 'Antic Slab', serif; /* Apply Antic Slab to the entire header */
 }
 
 .header-logo {
-    max-width: 100px; /* Adjust the size of the logo */
+    max-width: 100px;
     display: block;
-    margin: 0 auto; /* Center the logo */
+    margin: 0 auto;
     margin-bottom: 10px;
 }
 
 #header h1 {
-  font-size:1.4em;
+    font-family: 'Antic Slab', serif; /* Specifically for the title */
+    font-size: 2em; /* Adjust the size as needed */
 }
 
 body {

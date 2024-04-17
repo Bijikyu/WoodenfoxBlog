@@ -1,13 +1,17 @@
+// This HTML snippet includes a script for initializing a Masonry layout once the document content is loaded.
+
     </div> <!-- End of container -->
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var grid = document.querySelector('.grid');
-        if (grid) {
+    // Add an event listener for the DOMContentLoaded event to initialize Masonry layout
+    document.addEventListener("DOMContentLoaded", function() { // When the DOM is fully loaded, execute the following function
+        var grid = document.querySelector('.grid'); // Find the first element with the class 'grid'
+        if (grid) { // If the grid element exists, proceed with Masonry initialization
+            // Initialize Masonry with specified options on the grid element
             new Masonry(grid, {
-                itemSelector: '.grid-item',
-                columnWidth: 500,
-                gutter: 20,
-                fitWidth: true
+                itemSelector: '.grid-item', // Selects which elements will be used as the grid items
+                columnWidth: 500, // Sets the width of the columns in the grid
+                gutter: 20, // Sets the space between grid items
+                fitWidth: true // Adjusts the width of the grid to fit the width of the container
             });
         }
     });

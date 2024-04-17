@@ -1,14 +1,16 @@
-entrypoint = "main.py"
-modules = ["python-3.10:v18-20230807-322e88b"]
+// Configuration file defining entrypoint, dependencies, hidden files, nix channel, unit testing, and deployment settings
 
-hidden = [".pythonlibs"]
+entrypoint = "main.py" // Specifies the entry point script for the application
+modules = ["python-3.10:v18-20230807-322e88b"] // Lists the modules and their versions to be used
+
+hidden = [".pythonlibs"] // Specifies directories or files to be hidden from the deployment
 
 [nix]
-channel = "stable-23_05"
+channel = "stable-23_05" // Sets the Nix channel to use for the environment
 
 [unitTest]
-language = "python3"
+language = "python3" // Defines the language used for unit testing
 
 [deployment]
-deploymentTarget = "static"
-publicDir = "_site"
+deploymentTarget = "static" // Sets the deployment target type
+publicDir = "_site" // Designates the public directory for static files in the deployment
